@@ -21,6 +21,7 @@ obj/
 # Logs
 Logs/
 *.log
+*.log.txt
 
 # Environment and secrets
 .env
